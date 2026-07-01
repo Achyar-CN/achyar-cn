@@ -14,7 +14,7 @@ I'm an Advanced Analytics Lead at **PT Astra International**, one of Indonesia's
 - 🔭 I lead a small analytics/ML team building **reusable AI products** deployed across business units includes classification, forecasting, credit scoring, NLP/LLM, and computer vision.
 - 🤖 Lately focused on **GenAI & LLM applications** RAG systems, document intelligence, & cost-aware model routing.
 - 📈 I also build and run **[TopSatuSaham](https://achyar.dxight.com)**, tracking top-ownership movements on the Indonesian Stock Exchange.
-- 🎓 M.Cs in Informatics (Magna Cum Laude) · B.Sc in Mathematics (Cum Laude), UGM.
+- 🎓 M.Cs in Informatics (Magna Cum Laude), BINUS · B.Sc in Mathematics (Cum Laude), UGM.
 - 🌏 Based in Indonesia (UTC+7), open to async-first roles.
 
 ---
@@ -69,14 +69,11 @@ I'm an Advanced Analytics Lead at **PT Astra International**, one of Indonesia's
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=achyar-cn&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Achyar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyar-cn&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=achyar-cn&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=achyar-cn&theme=flat&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 ---
