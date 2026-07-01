@@ -72,11 +72,9 @@ I'm an Advanced Analytics Lead at **PT Astra International**, one of Indonesia's
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=achyar-cn&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Achyar's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyar-cn&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achyar-cn&theme=default&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=achyar-cn&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=achyar-cn&theme=flat&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
