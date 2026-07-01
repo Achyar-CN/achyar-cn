@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/achyarululamri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@achyar.ua"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://medium.com/@achyarua"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://achyar.dxight.com"><img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="mailto:achyarululamri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -18,9 +18,9 @@
 
 I'm an Advanced Analytics Lead at **PT Astra International**, one of Indonesia's largest listed conglomerates, with 8+ years progressing from data scientist to leading analytics and AI delivery across automotive, retail, healthcare, agribusiness, and financial services.
 
-- 🔭 I lead a small analytics/ML team building **reusable AI products** deployed across business units — classification, forecasting, credit scoring, NLP/LLM, and computer vision.
-- 🤖 Lately focused on **GenAI & LLM applications** — RAG systems, document intelligence, and cost-aware model routing.
-- 📈 I also build and run **[TopSatuSaham](https://achyar.dxight.com)**, a live SaaS tracking top-ownership movements on the Indonesian Stock Exchange — shipped solo.
+- 🔭 I lead a small analytics/ML team building **reusable AI products** deployed across business units includes classification, forecasting, credit scoring, NLP/LLM, and computer vision.
+- 🤖 Lately focused on **GenAI & LLM applications** RAG systems, document intelligence, and cost-aware model routing.
+- 📈 I also build and run **[TopSatuSaham](https://achyar.dxight.com)**, a live SaaS tracking top-ownership movements on the Indonesian Stock Exchange.
 - 🎓 M.Cs in Informatics (Magna Cum Laude, GPA 3.96) · B.Sc in Mathematics (Cum Laude), UGM.
 - 🌏 Based in Indonesia (UTC+7), open to async-first roles.
 
