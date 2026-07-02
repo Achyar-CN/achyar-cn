@@ -11,12 +11,6 @@
 
 I'm an Advanced Analytics Lead at **PT Astra International**, one of Indonesia's largest listed conglomerates, with 8+ years progressing from data scientist to leading analytics and AI delivery across automotive, retail, healthcare, agribusiness, and financial services.
 
-- 🔭 I lead a small analytics/ML team building **reusable AI products** deployed across business units includes classification, forecasting, credit scoring, NLP/LLM, and computer vision.
-- 🤖 Lately focused on **GenAI & LLM applications** RAG systems, document intelligence, & cost-aware model routing.
-- 📈 I also build and run **[TopSatuSaham](https://achyar.dxight.com)**, tracking top-ownership movements on the Indonesian Stock Exchange.
-- 🎓 M.Cs in Informatics (Magna Cum Laude), BINUS · B.Sc in Mathematics (Cum Laude), UGM.
-- 🌏 Based in Indonesia (UTC+7), open to async-first roles.
-
 ---
 
 ### Things I code with
