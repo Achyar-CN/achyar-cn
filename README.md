@@ -47,13 +47,4 @@ These days most of my time goes into applied GenAI, agentic systems, and getting
 
 ---
 
-### GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=achyar-cn&show_icons=true&hide_border=true&hide=contribs&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyar-cn&layout=compact&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
----
-
 <p align="center"><i>Open to senior remote roles in applied ML, GenAI, and data products. Feel free to reach out.</i></p>
