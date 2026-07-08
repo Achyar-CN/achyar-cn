@@ -17,7 +17,7 @@
 
 I'm an Advanced Analytics Lead at PT Astra International, one of Indonesia's largest listed conglomerates. Over the past 8 years I've gone from data scientist to leading analytics and AI delivery across automotive, retail, healthcare, agribusiness, and financial services.
 
-These days most of my time goes into applied GenAI, agentic systems, and getting data products all the way to production, from the model down to the screen a business user opens.
+My work spans the full lifecycle framing ambiguous problems, translating data problem, data preparation, insight analysis, building the AI/ML model, and shipping something a team actually uses, from forecasting, tabular prediction, recommendation, credit scoring to GenAI document intelligence.
 
 ---
 
@@ -26,8 +26,6 @@ These days most of my time goes into applied GenAI, agentic systems, and getting
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | 🏦 **[TopSatuSaham](https://achyar.dxight.com)** | Live SaaS that tracks top-ownership movements on the Indonesian Stock Exchange. Built and shipped solo. | `Next.js` `Python` `Supabase` `Tinybird` |
-| 🤖 **[Atlas, a Local RAG Assistant](https://github.com/Achyar-CN/local-ai-chatbot)** | A private AI assistant with RAG that runs fully on your machine through Ollama. Chat with your docs, search the web, OCR scanned files. No cloud, no API keys. | `TypeScript` `Python` `Ollama` `AI SDK` |
-| 📧 **[SDR Agent](https://github.com/Achyar-CN/ai-agent-workflow-automation)** | A multi-agent system that takes a company name, researches it, scores whether it's worth pursuing, then writes a ready-to-send cold email. | `LangGraph` `FastAPI` `Next.js` |
 | 🔧 **[LLM Fine-Tuning Pipeline](https://github.com/Achyar-CN/llm-fine-tuning)** | An end-to-end LoRA and QLoRA pipeline on the HuggingFace stack, with CI, tests, and linting set up. | `PyTorch` `PEFT` `HF` |
 | 🎓 **[AI/ML Playbook](https://github.com/Achyar-CN/AI-ML-Playbook)** | Interactive simulations for understanding core AI/ML concepts. | `JavaScript` `HTML` |
 
